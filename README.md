@@ -3,7 +3,7 @@
 A collection of machine learning projects focused on data preprocessing, exploratory data analysis (EDA), and predictive modeling. This repository serves as a journey from basic classification to advanced regression techniques.
 📁 Projects
 
-🏠 House Prices: Advanced Regression (In Progress)
+🏠 House Prices: Advanced Regression
 
     Goal: Predict sales prices for residential homes in Ames, Iowa.
 
@@ -16,6 +16,16 @@ A collection of machine learning projects focused on data preprocessing, explora
         Current Best Score (RMSLE): 0.13866
         
         Key Improvements: Achieved a Mean Absolute Error (MAE) of ~$16,267 USD during local validation.
+
+🚀 Spaceship Titanic: Classification (In Progress)
+
+Goal: Predict which passengers were transported to an alternate dimension during a space collision.
+
+Key Techniques: * Domain-Specific Imputation: Using passenger groups to infer home planets and luxury spending patterns to determine CryoSleep status.
+
+    Feature Engineering: Splitting complex strings (Cabin, PassengerId) into meaningful features like Deck, Side, and Group.
+
+Status: In Progress (Data Preprocessing Stage)
 
 🛠️ Tech Stack
 
