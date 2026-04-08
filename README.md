@@ -11,7 +11,11 @@ A collection of machine learning projects focused on data preprocessing, explora
 
     Models: RandomForestRegressor, Gradient Boosting (planned).
 
-    Status: Active 🛠️
+    Status: Done
+        
+        Current Best Score (RMSLE): 0.13866
+        
+        Key Improvements: Achieved a Mean Absolute Error (MAE) of ~$16,267 USD during local validation.
 
 🛠️ Tech Stack
 
